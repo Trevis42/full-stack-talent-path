@@ -15,7 +15,7 @@ v12.11.1
 
 Node is used for both our front-end and back-end. This gives us the ability to do neat things, like [universal JS]() or [isomorphic JS](), [server-side rendering]() of [React.js]() client applications, and [real-time]() applications.
 
-We use [Typescript]() instead of [Babel]().
+<!-- TODO Switch to Typescript since it's a superset of Babel -->
 
 **What about me?** You should bring to the table a working knowledge of JavaScript as a language in both browser and server environments. Eventually, you will also need to have a basic understanding of persistence and authentication, as we aim to provide that for you.
 
