@@ -8,7 +8,7 @@ A full-stack template repository for Talent Path full-stack immersive training.
 
 A recent version of [Node.js](https://nodejs.org) (hereafter, "Node") is recommended; a long-term support version of Node.js is required.
 
-```javascript
+```sh
 ➜ node -v
 v12.11.1
 ```
